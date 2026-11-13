@@ -1,0 +1,74 @@
+[
+  {
+    "id": "annular",
+    "en": "Annular",
+    "ar": "حلقي",
+    "descEn": "A rim of tissue surrounds a central opening. This is a common normal variation.",
+    "descAr": "نسيج على شكل حلقة يحيط بفتحة مركزية، وهو اختلاف تشريحي طبيعي شائع.",
+    "careEn": "Usually no symptoms or treatment.",
+    "careAr": "عادةً لا يسبب أعراضاً ولا يحتاج إلى علاج."
+  },
+  {
+    "id": "crescentic",
+    "en": "Crescentic",
+    "ar": "هلالي",
+    "descEn": "The tissue forms a crescent, often along the lower part of the vaginal opening.",
+    "descAr": "يكون النسيج على شكل هلال، غالباً على الجزء السفلي من فتحة المهبل.",
+    "careEn": "Usually a normal variation without symptoms.",
+    "careAr": "غالباً اختلاف طبيعي دون أعراض."
+  },
+  {
+    "id": "fimbriated",
+    "en": "Fimbriated",
+    "ar": "ذو حواف مهدبة",
+    "descEn": "The hymenal edge has folds or fringe-like projections.",
+    "descAr": "توجد طيات أو زوائد صغيرة على حافة النسيج.",
+    "careEn": "Typically a normal variation.",
+    "careAr": "عادةً اختلاف طبيعي."
+  },
+  {
+    "id": "septate",
+    "en": "Septate",
+    "ar": "ذو حاجز",
+    "descEn": "A band of tissue crosses the opening, creating two openings.",
+    "descAr": "يمتد شريط من النسيج عبر الفتحة فيقسمها إلى فتحتين.",
+    "careEn": "May cause difficulty using tampons or discomfort; a clinician can assess.",
+    "careAr": "قد يسبب صعوبة في استخدام السدادات القطنية أو انزعاجاً؛ يمكن للطبيب تقييم الحالة."
+  },
+  {
+    "id": "cribriform",
+    "en": "Cribriform",
+    "ar": "غربالي",
+    "descEn": "The tissue contains several small openings rather than one larger opening.",
+    "descAr": "يحتوي النسيج على عدة فتحات صغيرة بدلاً من فتحة واحدة أكبر.",
+    "careEn": "Menstrual flow may be slow; assessment is appropriate if symptomatic.",
+    "careAr": "قد يكون خروج دم الحيض بطيئاً؛ يُنصح بالتقييم عند وجود أعراض."
+  },
+  {
+    "id": "microperforate",
+    "en": "Microperforate",
+    "ar": "ذو فتحة دقيقة",
+    "descEn": "The hymenal tissue has a very small opening.",
+    "descAr": "يحتوي النسيج على فتحة صغيرة جداً.",
+    "careEn": "May cause prolonged or difficult menstrual flow and difficulty inserting tampons.",
+    "careAr": "قد يسبب بطء خروج دم الحيض أو صعوبة استخدام السدادات القطنية."
+  },
+  {
+    "id": "imperforate",
+    "en": "Imperforate",
+    "ar": "غير مثقوب",
+    "descEn": "There is no opening in the hymenal tissue. This can obstruct menstrual outflow.",
+    "descAr": "لا توجد فتحة في النسيج، مما قد يمنع خروج دم الحيض.",
+    "careEn": "Needs medical assessment; treatment is usually a minor surgical procedure.",
+    "careAr": "يحتاج إلى تقييم طبي؛ ويكون العلاج عادةً بإجراء جراحي بسيط."
+  },
+  {
+    "id": "tags",
+    "en": "Hymenal tags",
+    "ar": "زوائد غشائية",
+    "descEn": "Small projections of hymenal tissue may be present and are often harmless.",
+    "descAr": "قد توجد زوائد صغيرة من النسيج، وغالباً ما تكون غير ضارة.",
+    "careEn": "Usually no treatment unless there are troublesome symptoms.",
+    "careAr": "عادةً لا تحتاج إلى علاج إلا إذا سببت أعراضاً مزعجة."
+  }
+]
